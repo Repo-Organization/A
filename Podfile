@@ -5,6 +5,5 @@ source 'https://github.com/Repo-Organization/MainProject.git'
 source 'https://github.com/CocoaPods/Specs.git'
 
 target 'A' do
- pod "HandyFrame"
- pod "B_Category", :path => "../B_Category"
+ 
 end
