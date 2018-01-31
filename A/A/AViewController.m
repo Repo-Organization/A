@@ -12,6 +12,7 @@
 
 @interface AViewController ()
 
+/// 添加注释，跳转到 B 控制器 button
 @property (nonatomic, strong) UIButton *pushBViewControllerButton;
 
 @end
